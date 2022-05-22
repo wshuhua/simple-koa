@@ -1,0 +1,23 @@
+{
+  "name": "simple-koa",
+  "version": "1.0.0",
+  "description": "简化版koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wshuhua/simple-koa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wshuhua/simple-koa/issues"
+  },
+  "homepage": "https://github.com/wshuhua/simple-koa#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
